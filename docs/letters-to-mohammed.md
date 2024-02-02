@@ -1,5 +1,4 @@
 
-
 <style>
     * {
         direction: rtl;
