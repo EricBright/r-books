@@ -1,6 +1,10 @@
 
 
-<!-- language: rtl -->
+<style>
+    * {
+        direction: rtl;
+    }
+</style>
 
 # نامه‌ھایی برای محمد پیامبر
 
