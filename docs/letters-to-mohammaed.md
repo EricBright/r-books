@@ -1430,7 +1430,7 @@ d
 
 منابع:
 
-
+<div dir="ltr">
 
 - Luxenberg., C (2007) The Syro-Aramic of Reading of the Koran. Hnas Schiler
 
@@ -1452,7 +1452,7 @@ d
 
 - Saadi, Abdul-Massih. (2008) ‘Nascent Islam in the seventh century Syriac sources’. From ‘Quran and its Historical Context’. Routledge. London and Ney York. Page 220.
 
-
+</div>
 
 - ابن هشام (؟) سیرت رسول اﷲ: ترجمه سیرت ابن اسحاق از عبدالملک ابن هشام- نشر مرکز- 1373.
 
