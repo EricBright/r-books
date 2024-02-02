@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 **نامه‌ھایی برای محمد پیامبر**
 
 پژوھشی بر ریشه‌ھای قرآن
@@ -1476,6 +1478,9 @@ d
 
 منابع:
 
+</div>
+
+
 - Luxenberg., C (2007) The Syro-Aramic of Reading of the Koran. Hnas Schiler
     
 - Wansbrough., John (1977) ‘Quranic Studies: Sources and Methods of Scriptural Interpretation’ Oxford Press.
@@ -1495,7 +1500,9 @@ d
 - Eusebius (?).’the Church History’, CHAPTER XXVII.
     
 - Saadi, Abdul-Massih. (2008) ‘Nascent Islam in the seventh century Syriac sources’. From ‘Quran and its Historical Context’. Routledge. London and Ney York. Page 220.
-    
+
+<div dir="rtl">
+
 - ابن هشام (؟) سیرت رسول اﷲ: ترجمه سیرت ابن اسحاق از عبدالملک ابن هشام- نشر مرکز- 1373.
     
 
@@ -1538,3 +1545,4 @@ Luxenberg., C (2007) The Syro-Aramic of Reading of the Koran. Hnas Schiler
 چنین تفسیري در خود داراي تناقض است. تمام متن قرآن یکپارچه و کامل نازل شده است و بعد به تدریج دوباره نازل شده است. این بدان معناست که همه آنچه در مورد اتفاقاتی مانند پاسخ به مشرکین ،جنگها و اتفاقات دیگر در متن اشاره شده، همگی از قبل مکتوب بوده است!
 
 [13](#sdfootnote13anc) برایِ توضیحِ بیشتر دربارۀ فرقان نگاه کنید به بخش «فرقان» در همین کتاب.
+</div>
