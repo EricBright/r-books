@@ -22,7 +22,7 @@
 
 گروه انتشارات آزاد ایران ـ سوئد
 
-<www.entesharate-iran.com>
+[Entesharat-e Iran-e Azad](www.entesharate-iran.com)
 
 ISBN 978-91-7637-021-6
 
