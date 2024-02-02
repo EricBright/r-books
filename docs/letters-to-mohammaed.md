@@ -1429,7 +1429,7 @@ Chapter 30. 18:1;
 
 منابع:
 
-<span dir="ltr">
+<span dir="ltr" align="left">
 
 - Luxenberg., C (2007) The Syro-Aramic of Reading of the Koran. Hnas Schiler
 
